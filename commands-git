@@ -6,3 +6,5 @@ git push [remote] [branche]
 git push origin nom-de-la-branche
 git push origin master 
 git pull
+git branch
+git checkout
