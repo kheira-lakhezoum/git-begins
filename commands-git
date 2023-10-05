@@ -4,5 +4,5 @@ git clone https://github.com/utilisateur/nom-du-depot.git
 Les 3 commandes de push
 git add .
 git commit -m
-git push 
+git push (3 commandes possible)
 git pull
