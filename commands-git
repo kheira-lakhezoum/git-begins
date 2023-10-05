@@ -2,7 +2,7 @@ Cloner un repository
 git clone https://github.com/utilisateur/nom-du-depot.git
 
 Les 3 commandes de push
-git push [remote] [branche]
-git push origin nom-de-la-branche
-git push origin master 
+git add .
+git commit -m
+git push 
 git pull
